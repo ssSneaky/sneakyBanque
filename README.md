@@ -8,4 +8,4 @@
        
        FR : Banque Complète en RageUI
        EN : Complete bank in RageUI
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
